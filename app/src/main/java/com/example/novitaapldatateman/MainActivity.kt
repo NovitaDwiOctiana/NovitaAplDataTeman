@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.core.content.res.ResourcesCompat
 import com.google.android.material.tabs.TabLayoutMediator
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.fragment_friends.*
 
 class MainActivity : AppCompatActivity() {
     val menuTeks = arrayOf("Teman", "GitHub", "Profil")
